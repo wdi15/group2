@@ -1,1 +1,6 @@
-# group2
+Group members:
+Natalia
+Fion
+Katie
+Nancy
+Deborah
