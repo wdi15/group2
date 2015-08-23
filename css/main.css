@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 /* Navigation Bar*/
 
 #h1 {
@@ -12,10 +11,8 @@
 .btn {
 	border-style: solid;
 	border-width: 1px;
-	border-color: #F6D401;
-	border-top-left-radius: 25px;
-	border-bottom-right-radius: 25px;
-	background-color: #F6D401;
+	border-color: #FFFF00;
+	background-color: #F4FA58;
 	margin-left: 30px;
 	margin-right: 10px;
 	margin-top: 50px;
@@ -25,16 +22,16 @@
 	height: 30px;
 	font-family: "Helvetica", sans-serif;
 	font-weight: bold;
-	text-decoration: none;
 	color: white;
+	text-decoration: none;
 }
 
 .btn:hover {
 	border-style: solid;
 	border-width: 2px;
-	border-color: #F6D401;
+	border-color: #F4FA58;
 	background-color: white;
-	color: #F6D401;
+	color: #F4FA58;
 }
 
 /* Splash Image*/
@@ -71,8 +68,3 @@ img {
 	letter-spacing: 2px;
 	color: #4D4D4D;
 }
-=======
-body {
-	background-color: #FFFFB2;
-}
->>>>>>> Stashed changes
