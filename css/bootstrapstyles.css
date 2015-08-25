@@ -11,10 +11,10 @@ a {
 }
 
 
-/* JUMBOTRON IMAGE */
+/* JUMBOTRON IMAGE */ 
 .jumbotron {
     position: relative;
-    background: #000 url("https://news.slac.stanford.edu/sites/default/files/images/story-thumb/symm-bees.jpg") center center;
+    background: #000 url("C:/Users/Angela/Desktop/group 2/images/symm-bees1080p.jpg") center center;
     width: 100%;
     height: 100%;
     background-size: cover;
