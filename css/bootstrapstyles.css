@@ -29,7 +29,7 @@ p {
 }
 
 .btn:hover {
-	background-color: inherit;
+	background-color: inherit; /*interesting discovery! inherit makes button transparent!*/
 	border-color: #FFFFFF;
 	color: #FFFFFF;
 }
@@ -40,4 +40,5 @@ body {
 
 .navbar {
 	margin-bottom: 0px;
+	font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
