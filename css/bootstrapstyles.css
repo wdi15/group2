@@ -37,3 +37,7 @@ p {
 body {
 	color: #FFFFFF;
 }
+
+.navbar {
+	margin-bottom: 0px;
+}
