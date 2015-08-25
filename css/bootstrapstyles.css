@@ -29,9 +29,9 @@ p {
 }
 
 .btn:hover {
-	background-color: #FFFFFF;
+	background-color: inherit;
 	border-color: #FFFFFF;
-	color: #000000;
+	color: #FFFFFF;
 }
 
 body {
