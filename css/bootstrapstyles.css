@@ -6,6 +6,11 @@
 	font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+a {
+	transition: all 0.2s ease-in-out;
+}
+
+
 /* JUMBOTRON IMAGE */
 .jumbotron {
     position: relative;
