@@ -27,6 +27,11 @@
 	background-color: inherit; /*interesting discovery! inherit makes button transparent!*/
 	border-color: #FFFFFF;
 	color: #FFFFFF;
+	transition: all 0.2s ease-in-out;
+}
+
+.btn:not(:hover) {
+	transition: all 0.2s ease-in-out;
 }
 
 /* JUMBOTRON TEXT */
@@ -44,4 +49,5 @@ p {
 
 body {
 	color: #FFFFFF;
+	padding-top: 51px; /*fixed navbar covers top of jumbotron image; fixed with padding*/
 }
