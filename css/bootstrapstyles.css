@@ -4,12 +4,12 @@
 .navbar {
 	margin-bottom: 0px;
 	font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	letter-spacing: 1.5px;
 }
 
 a {
 	transition: all 0.2s ease-in-out;
 }
-
 
 /* JUMBOTRON IMAGE */ 
 .jumbotron {
