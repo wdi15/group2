@@ -1,17 +1,12 @@
-/* bootstrap component challenge css styles */
+/* bootstrap version css styles */
 
-h1 {
-	margin-left: 180px;
+/* NAVIGATION BAR */
+.navbar {
+	margin-bottom: 0px;
 	font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #FFFFFF;
-	margin-top: 100px;
 }
 
-p {
-	margin-left: 220px;
-	font-family: Calibri; 
-}
-
+/* JUMBOTRON IMAGE */
 .jumbotron {
     position: relative;
     background: #000 url("https://news.slac.stanford.edu/sites/default/files/images/story-thumb/symm-bees.jpg") center center;
@@ -34,11 +29,19 @@ p {
 	color: #FFFFFF;
 }
 
-body {
+/* JUMBOTRON TEXT */
+h1 {
+	margin-left: 180px;
+	font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #FFFFFF;
+	margin-top: 100px;
 }
 
-.navbar {
-	margin-bottom: 0px;
-	font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+p {
+	margin-left: 220px;
+	font-family: Calibri; 
+}
+
+body {
+	color: #FFFFFF;
 }
