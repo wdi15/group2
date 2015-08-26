@@ -1,5 +1,7 @@
 /* bootstrap version css styles */
 
+/* ------------------------HOMEPAGE------------------------*/
+
 /* NAVIGATION BAR */
 .navbar {
 	margin-bottom: 0px;
@@ -13,7 +15,7 @@ a {
 
 /* JUMBOTRON IMAGE */ 
 .jumbotron {
-    position: relative;
+    position: absolute; /* in html, doctype must be added, which changes placement of jumbotron. to fix problem, change postion: relative; to position: absolute;*/
     background: #000 url("C:/Users/Angela/Desktop/group 2/images/symm-bees1080p.jpg") center center;
     width: 100%;
     height: 100%;
@@ -56,3 +58,23 @@ body {
 	color: #FFFFFF;
 	padding-top: 51px; /*fixed navbar covers top of jumbotron image; fixed with padding*/
 }
+
+/* ------------------------ABOUT------------------------*/
+
+
+
+
+
+
+
+
+/* ------------------------SUPPORT------------------------*/
+
+
+
+
+
+
+
+
+/* ------------------------DONATE------------------------*/
