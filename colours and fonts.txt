@@ -1,0 +1,14 @@
+List of fonts and colours used so far
+
+[ HOME PAGE ]
+
+NAVIGATION BAR:
+
+font--> "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+
+JUMBOTRON:
+
+header--> font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+paragraph--> Calibri
+button colour (bckgrnd, border)--> #F6D401
