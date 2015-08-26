@@ -13,7 +13,7 @@ a {
 	transition: all 0.2s ease-in-out;
 }
 
-/* JUMBOTRON IMAGE */ 
+/* JUMBOTRON */ 
 .jumbotron {
     position: absolute; /* in html, doctype must be added, which changes placement of jumbotron. to fix problem, change postion: relative; to position: absolute;*/
     background: #000 url("../images/symm-bees1080p.jpg") center center;
@@ -41,7 +41,6 @@ a {
 	transition: all 0.2s ease-in-out;
 }
 
-/* JUMBOTRON TEXT */
 h1 {
 	margin-left: 180px;
 	font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
