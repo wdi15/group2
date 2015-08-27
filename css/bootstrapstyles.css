@@ -90,7 +90,16 @@ p {
 	transition: all 0.2s ease-in-out;
 }
 
+.columnPara {
+	margin-left: 70px;
+	margin-right: 70px;
+	font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+}
 
+.h3Column {
+	font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 
 /* ------------------------ABOUT------------------------*/
 
