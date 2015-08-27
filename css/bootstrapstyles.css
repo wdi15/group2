@@ -67,7 +67,7 @@ p {
 /* COLUMNS */
 .row {
 	position: relative;
-	top: 700px;
+	top: 730px;
 }
 
 .thumbnail {
@@ -86,7 +86,9 @@ p {
 	text-decoration: none;
 }
 
-
+.thumbnail:not(:hover) {
+	transition: all 0.2s ease-in-out;
+}
 
 
 
