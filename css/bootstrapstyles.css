@@ -87,16 +87,25 @@ p {
 
 
 /* ------------------------ABOUT------------------------*/
+
+/* PAGE HEADER */
+.page-header {
+	padding-top: 1px;
+	padding-bottom: 15px;
+	background-color: #F6D401;
+}
+
 .h1Pages {
 	font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 52px;
-	color: #000000;
+	color: white;
 }
 
 .h1Subtext {
 	margin-top: 12px;
 }
 
+/* CONTENT */
 .paraContent {
 	margin-left: 230px;
 	margin-top: 40px;
