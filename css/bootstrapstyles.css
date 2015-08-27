@@ -129,6 +129,15 @@ p {
 	font-size: 16px;
 }
 
+#pages {
+	background: url(../images/honeycomb3.png) center center fixed;
+	background-size: cover;
+	background-position: -900px top;
+}
+
+.content {
+	background: white;
+}
 /* ------------------------SUPPORT------------------------*/
 
 
