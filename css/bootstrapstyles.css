@@ -82,7 +82,11 @@ p {
 .thumbnail:hover {
 	opacity: 1.0;
 	transition: all 0.2s ease-in-out;
+	color: white;
+	text-decoration: none;
 }
+
+
 
 
 
