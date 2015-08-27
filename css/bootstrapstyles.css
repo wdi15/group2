@@ -56,6 +56,7 @@ p {
 	margin-left: 220px;
 }
 
+/* JUMBOTRON & COLUMNS */
 body {
 	color: #FFFFFF;
 	padding-top: 51px;/*fixed navbar covers top of jumbotron image; fixed with padding*/
@@ -63,6 +64,7 @@ body {
 	background-size: cover;
 }
 
+/* COLUMNS */
 .row {
 	position: relative;
 	top: 700px;
