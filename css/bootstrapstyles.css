@@ -62,12 +62,13 @@ p {
 	padding-top: 51px;/*fixed navbar covers top of jumbotron image; fixed with padding*/
 	background: url(../images/bg.bmp) center center fixed;
 	background-size: cover;
+	margin-right: 15px;
 }
 
 /* COLUMNS */
 .row {
 	position: relative;
-	top: 730px;
+	top: 735px;
 }
 
 .thumbnail {
