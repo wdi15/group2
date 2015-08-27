@@ -49,8 +49,11 @@ h1 {
 }
 
 p {
-	margin-left: 220px;
 	font-family: Calibri; 
+}
+
+.jumbotron p{
+	margin-left: 220px;
 }
 
 body {
@@ -60,12 +63,12 @@ body {
 	background-size: cover;
 }
 
-.row{
+.row {
 	position: relative;
 	top: 700px;
 }
 
-.thumbnail{
+.thumbnail {
 	text-align: center;
 	background-color: inherit; 
 	color: white;
@@ -74,7 +77,7 @@ body {
 	
 }
 
-.thumbnail:hover{
+.thumbnail:hover {
 	opacity: 1.0;
 	transition: all 0.2s ease-in-out;
 }
