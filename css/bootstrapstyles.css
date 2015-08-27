@@ -43,9 +43,9 @@ a {
 
 h1 {
 	margin-left: 180px;
+	margin-top: 100px;
 	font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #FFFFFF;
-	margin-top: 100px;
 }
 
 p {
@@ -57,7 +57,7 @@ p {
 }
 
 /* JUMBOTRON & COLUMNS */
-body {
+#bodyHome {
 	color: #FFFFFF;
 	padding-top: 51px;/*fixed navbar covers top of jumbotron image; fixed with padding*/
 	background: url(../images/bg.bmp) center center fixed;
@@ -87,11 +87,21 @@ body {
 
 
 /* ------------------------ABOUT------------------------*/
+.h1Pages {
+	font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 52px;
+	color: #000000;
+}
 
+.h1Subtext {
+	margin-top: 12px;
+}
 
-
-
-
+.paraContent {
+	margin-left: 230px;
+	margin-top: 40px;
+	margin-right: 230px;
+}
 
 
 
