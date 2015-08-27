@@ -107,13 +107,27 @@ p {
 
 /* CONTENT */
 .paraContent {
-	margin-left: 230px;
+	margin-left: 180px;
 	margin-top: 40px;
-	margin-right: 230px;
+	margin-right: 180px;
 	font-size: 16px;
 }
 
+.h4Content {
+	margin-left: 180px;
+	margin-top: 50px;
+	margin-right: 180px;
+	margin-bottom: 0px;
+	font-family:"Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 
+#paraContent {
+	margin-left: 180px;
+	margin-top: 40px;
+	margin-right: 180px;
+	margin-bottom: 50px;
+	font-size: 16px;
+}
 
 /* ------------------------SUPPORT------------------------*/
 
