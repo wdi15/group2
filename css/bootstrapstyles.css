@@ -2,15 +2,6 @@
 
 /* ------------------------HOMEPAGE------------------------*/
 
-@font-face{
-	font-family: 'MavenPro';
-	src: url('maven_pro-webfont.eot');
-	src: local("☺"),
-	url('maven_pro-webfont.woff') format('woff'),
-	url('maven_pro-webfont.otf') format('opentype'),
-	url('maven_pro-webfont.svg#filename') format('svg')/code>
-}
-
 /* NAVIGATION BAR */
 .navbar {
 	margin-bottom: 0px;
@@ -62,7 +53,7 @@ a {
 
 .jumbotron p{
 	margin-left: 220px;
-	font-family: Calibri;
+	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
 }
 
 #bodyHome {
