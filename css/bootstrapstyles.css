@@ -119,8 +119,9 @@ a {
 
 /* PAGE HEADER */
 .page-header {
-	padding-top: 1px;
+	padding-top: 80px;
 	padding-bottom: 15px;
+	padding-left: 180px;
 	background-color: #F6D401;
 }
 
