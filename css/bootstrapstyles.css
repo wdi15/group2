@@ -41,22 +41,21 @@ a {
 	transition: all 0.2s ease-in-out;
 }
 
-h1 {
+/* JUMBOTRON & COLUMNS */
+.jumbotron h1 {
 	margin-left: 180px;
 	margin-top: 100px;
 	font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #FFFFFF;
-}
-
-p {
-	font-family: Calibri; 
+	text-shadow: 3px 3px 3px black;
+	width: 433px;
 }
 
 .jumbotron p{
 	margin-left: 220px;
+	font-family: Calibri;
 }
 
-/* JUMBOTRON & COLUMNS */
 #bodyHome {
 	color: #FFFFFF;
 	padding-top: 51px;/*fixed navbar covers top of jumbotron image; fixed with padding*/
@@ -155,6 +154,26 @@ p {
 	font-size: 22px;
 	font-weight: bold;
 	font-family:"Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.paraQuote {
+	color: gray;
+	margin-left: 180px;
+	margin-top: 40px;
+	margin-right: 180px;
+	margin-bottom: -15px;
+	font-size: 16px;
+	font-family: arial;
+	font-style: italic;
+}
+
+.paraAuthor {
+	text-align: right;
+	margin-right: 180px;
+	font-size: 16px;
+	font-family: arial;
+	color: gray;
+	font-style: italic;
 }
 
 .paraContent {
