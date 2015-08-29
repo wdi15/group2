@@ -137,6 +137,7 @@ a {
 }
 
 /* CONTENT */
+/* headers */
 #h4First {
 	margin-left: 180px;
 	margin-top: 50px;
@@ -158,6 +159,7 @@ a {
 	font-family:"Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+/* quote */
 .paraQuote {
 	color: gray;
 	margin-left: 180px;
@@ -178,6 +180,7 @@ a {
 	font-style: italic;
 }
 
+/* paragraphs */
 .paraContent {
 	margin-left: 180px;
 	margin-top: 40px;
@@ -196,6 +199,7 @@ a {
 	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
 }
 
+/* BACKGROUND */ /* applies to all pages */ 
 #pages {
 	background: url(../images/honeycomb3.png) center center fixed;
 	background-size: cover;
@@ -207,6 +211,7 @@ a {
 }
 /* ------------------------SUPPORT------------------------*/
 
+/* LIST (last paragraph) */
 .firstItem {
 	margin-top: -10px;
 }
