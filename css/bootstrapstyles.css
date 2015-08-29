@@ -206,10 +206,13 @@ a {
 }
 /* ------------------------SUPPORT------------------------*/
 
+.firstItem {
+	margin-top: -10px;
+}
 
-
-
-
+.lastItem {
+	margin-bottom: 50px;
+}
 
 
 
