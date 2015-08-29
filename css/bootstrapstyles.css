@@ -2,9 +2,13 @@
 
 /* ------------------------HOMEPAGE------------------------*/
 
-@font-face {
-	font-family: ('MyriadPro-Regular');
-	src: url('fonts/MyriadPro-Regular.ttf ') format("truetype");
+@font-face{
+	font-family: 'MavenPro';
+	src: url('maven_pro-webfont.eot');
+	src: local("☺"),
+	url('maven_pro-webfont.woff') format('woff'),
+	url('maven_pro-webfont.otf') format('opentype'),
+	url('maven_pro-webfont.svg#filename') format('svg')/code>
 }
 
 /* NAVIGATION BAR */
