@@ -131,8 +131,9 @@ a {
 	color: white;
 }
 
-.h1Subtext {
+.h1Subtext { /* Applies to all subtexts on all pages */
 	margin-top: 12px;
+	font-family:"Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /* CONTENT */
