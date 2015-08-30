@@ -161,7 +161,6 @@ a {
 
 /* quote */
 .paraQuote {
-	color: gray;
 	margin-left: 180px;
 	margin-top: 40px;
 	margin-right: 180px;
@@ -169,15 +168,17 @@ a {
 	font-size: 18px;  /*Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;*/
 	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
 	font-style: italic;
+	color: gray;
 }
 
 .paraAuthor {
-	text-align: right;
 	margin-right: 180px;
+	margin-top: 40px;
 	font-size: 18px;
 	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
-	color: gray;
 	font-style: italic;
+	color: gray;
+	text-align: right;
 }
 
 /* paragraphs */
