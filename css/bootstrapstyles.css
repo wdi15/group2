@@ -103,6 +103,10 @@ a {
 	transition: all 0.2s ease-in-out;
 }
 
+.h3Column {
+	font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 .columnPara {
 	margin-left: 70px;
 	margin-right: 70px;
@@ -110,8 +114,15 @@ a {
 	font-size: 16px;
 }
 
-.h3Column {
+.aColumn {
 	font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	color: white;
+}
+
+.aColumn:hover {
+	color: #F6D401;
+	text-decoration: none;
 }
 
 /* ------------------------ABOUT------------------------*/
